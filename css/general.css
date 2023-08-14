@@ -1,0 +1,16 @@
+.m-bottom {
+	margin-bottom: 10px;
+}
+
+#panel-mbottom {
+	margin-bottom: 10px;
+}
+
+.modal-open {
+    padding-right: 0px !important;
+    overflow-y: scroll;
+}
+
+.warning {
+	color: red;
+}

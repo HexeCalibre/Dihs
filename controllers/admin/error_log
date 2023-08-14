@@ -1,0 +1,52 @@
+[08-Sep-2020 03:03:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tbl_studentgrades.midterm_grade' in 'field list' in /home/u849866404/domains/dihsportal.online/public_html/controllers/admin/getgrades.php:17
+Stack trace:
+#0 /home/u849866404/domains/dihsportal.online/public_html/controllers/admin/getgrades.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/u849866404/domains/dihsportal.online/public_html/controllers/admin/getgrades.php on line 17
+[08-Sep-2020 03:04:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tbl_studentgrades.midterm_grade' in 'field list' in /home/u849866404/domains/dihsportal.online/public_html/controllers/admin/getgrades.php:17
+Stack trace:
+#0 /home/u849866404/domains/dihsportal.online/public_html/controllers/admin/getgrades.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/u849866404/domains/dihsportal.online/public_html/controllers/admin/getgrades.php on line 17
+[08-Sep-2020 03:06:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tbl_studentgrades.midterm_grade' in 'field list' in /home/u849866404/domains/dihsportal.online/public_html/controllers/admin/getgrades.php:17
+Stack trace:
+#0 /home/u849866404/domains/dihsportal.online/public_html/controllers/admin/getgrades.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/u849866404/domains/dihsportal.online/public_html/controllers/admin/getgrades.php on line 17
+[08-Sep-2020 03:06:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tbl_studentgrades.midterm_grade' in 'field list' in /home/u849866404/domains/dihsportal.online/public_html/controllers/admin/getgrades.php:17
+Stack trace:
+#0 /home/u849866404/domains/dihsportal.online/public_html/controllers/admin/getgrades.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/u849866404/domains/dihsportal.online/public_html/controllers/admin/getgrades.php on line 17
+[08-Sep-2020 03:08:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tbl_studentgrades.midterm_grade' in 'field list' in /home/u849866404/domains/dihsportal.online/public_html/controllers/admin/getgrades.php:17
+Stack trace:
+#0 /home/u849866404/domains/dihsportal.online/public_html/controllers/admin/getgrades.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/u849866404/domains/dihsportal.online/public_html/controllers/admin/getgrades.php on line 17
+[08-Sep-2020 03:08:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tbl_studentgrades.midterm_grade' in 'field list' in /home/u849866404/domains/dihsportal.online/public_html/controllers/admin/getgrades.php:17
+Stack trace:
+#0 /home/u849866404/domains/dihsportal.online/public_html/controllers/admin/getgrades.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/u849866404/domains/dihsportal.online/public_html/controllers/admin/getgrades.php on line 17
+[08-Sep-2020 03:08:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tbl_studentgrades.midterm_grade' in 'field list' in /home/u849866404/domains/dihsportal.online/public_html/controllers/admin/getgrades.php:17
+Stack trace:
+#0 /home/u849866404/domains/dihsportal.online/public_html/controllers/admin/getgrades.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/u849866404/domains/dihsportal.online/public_html/controllers/admin/getgrades.php on line 17
+[08-Sep-2020 03:09:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tbl_studentgrades.midterm_grade' in 'field list' in /home/u849866404/domains/dihsportal.online/public_html/controllers/admin/getgrades.php:17
+Stack trace:
+#0 /home/u849866404/domains/dihsportal.online/public_html/controllers/admin/getgrades.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/u849866404/domains/dihsportal.online/public_html/controllers/admin/getgrades.php on line 17
+[08-Sep-2020 03:12:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tbl_studentgrades.midterm_grade' in 'field list' in /home/u849866404/domains/dihsportal.online/public_html/controllers/admin/getgrades.php:17
+Stack trace:
+#0 /home/u849866404/domains/dihsportal.online/public_html/controllers/admin/getgrades.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/u849866404/domains/dihsportal.online/public_html/controllers/admin/getgrades.php on line 17
+[08-Sep-2020 03:12:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tbl_studentgrades.midterm_grade' in 'field list' in /home/u849866404/domains/dihsportal.online/public_html/controllers/admin/getgrades.php:17
+Stack trace:
+#0 /home/u849866404/domains/dihsportal.online/public_html/controllers/admin/getgrades.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/u849866404/domains/dihsportal.online/public_html/controllers/admin/getgrades.php on line 17
+[08-Sep-2020 07:12:18 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/u849866404/domains/dihsportal.online/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[09-Sep-2020 02:37:32 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/u849866404/domains/dihsportal.online/public_html/phpmailer/PHPMailerAutoload.php on line 45

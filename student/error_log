@@ -1,0 +1,8 @@
+[08-Sep-2020 05:47:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u849866404/domains/dihsportal.online/public_html/student/profile.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/u849866404/domains/dihsportal.online/public_html/student/profile.php on line 78
+[08-Sep-2020 05:59:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u849866404/domains/dihsportal.online/public_html/student/profile.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/u849866404/domains/dihsportal.online/public_html/student/profile.php on line 103
